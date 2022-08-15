@@ -1,0 +1,2 @@
+D:\kody\learn-gcc\ImGui\SimpleImGui\examples\example_win32_directx10\Debug\example_win32_directx10.exe
+D:\kody\learn-gcc\ImGui\WindowsGUIApp\examples\example_win32_directx10\Debug\example_win32_directx10.exe

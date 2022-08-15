@@ -1,4 +1,4 @@
-# RPI.heating_control
+# Windows GUI C++ app test
 
-Small Python test growing into a heating control system
+Using Dear IMGui
 
